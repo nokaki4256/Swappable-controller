@@ -1,0 +1,7 @@
+P,I,D,a,b,motor_limit,Pulse_width,Home_Position,ユニット名,リンクの長さ
+0.8,0.2,0.5,1,1,100,100,0,wheel1,100
+0.8,0.2,0.5,1,1,100,100,0,Non,100
+3,0,0,0,0,0,Non,0,Non,50
+0,2,0,0,0,0,Non,Non,Non,0
+0,0,1,0,0,0,Non,Non,Non,0
+0,0,0,0,0,0,Non,Non,Non,0

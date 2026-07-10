@@ -1,0 +1,4 @@
+ユニット,アドレス,データセット
+左腕ユニット,0x20,parallel_link.csv
+フットユニット,0x22,wheel1.csv
+右腕ユニット,0x21,testers.csv
